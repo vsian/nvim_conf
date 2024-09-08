@@ -7,10 +7,10 @@ end
 -- configure/enable
 distant:setup({
 	servers = {
-		["e5-cse-135-01.cse.psu.edu"] = {
+		["ese-135-01u"] = {
 			connect = {
 				default = {
-					username = "rql5576",
+					username = "",
 				},
 			},
 		},
