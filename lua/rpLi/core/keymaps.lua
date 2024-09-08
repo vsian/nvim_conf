@@ -63,3 +63,5 @@ keymap.set("n", "<leader>rs", ":LspRestart<CR>") -- mapping to restart lsp if ne
 keymap.set("n", "<leader>ji", "<cmd>BufferLinePick<cr>") -- pick buffers
 keymap.set("n", "<leader>jn", "<cmd>BufferLinePickClose<cr>") -- pick buffers
 keymap.set("n", "<leader>jo", "<cmd>BufferLineCloseOthers<cr>") -- pick buffers
+
+keymap.set("n", "<leader>ts", "<cmd>Neotest summary<cr>")
