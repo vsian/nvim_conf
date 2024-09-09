@@ -89,6 +89,11 @@ _G.packer_plugins = {
     path = "/Users/lrppp/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["bookmarks.nvim"] = {
+    loaded = true,
+    path = "/Users/lrppp/.local/share/nvim/site/pack/packer/start/bookmarks.nvim",
+    url = "https://github.com/tomasky/bookmarks.nvim"
+  },
   ["bufferline.nvim"] = {
     loaded = true,
     path = "/Users/lrppp/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
